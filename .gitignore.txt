@@ -1,0 +1,3 @@
+testignore.txt
+testignore2.txt
+abc.txt
